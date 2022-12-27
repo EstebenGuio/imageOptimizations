@@ -36,3 +36,8 @@ Usin linux you can use:
 >
 > `cd /your-folder-path/ && `
 > `optipng *.png`
+
+
+<br><br>
+
+checkout for more at [EstebenGuio.com](estebenguio.com)
